@@ -19,6 +19,19 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
+<div class="alert alert-danger">
+<p align="left" style="color:blue">
+  <strong>
+    It is a 5-day workshop given for DEEP: Norwegian Research School for Dynamics and Evolution of Earth and Planets. Lesson material is based on Carpentry lesson on Programming with Python and CodeRefinery lesson material.
+    Additional episodes have been added to cover specific needs of the Dynamics and Evolution of Earth and Planets community.    
+  </strong>
+</p>
+</div>
+
+- [DEEP: Norwegian Research School for Dynamics and Evolution of Earth and Planets](https://www.mn.uio.no/ceed/english/research/doctoral-degree/national-phd-school/)
+- [Carpentry lesson on Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/) 
+- [CodeRefinery lesson material](https://coderefinery.org/lessons/)
+
 <img src="fig/deeplogo_vektor.png" width="75%" alt="DEEP">
 
 {% comment %}
